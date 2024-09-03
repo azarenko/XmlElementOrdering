@@ -1,0 +1,10 @@
+C:\projects\personal\XmlElementOrdering\XmlElementOrdering\bin\Debug\XmlElementOrdering.exe.config
+C:\projects\personal\XmlElementOrdering\XmlElementOrdering\bin\Debug\XmlElementOrdering.exe
+C:\projects\personal\XmlElementOrdering\XmlElementOrdering\bin\Debug\XmlElementOrdering.pdb
+C:\projects\personal\XmlElementOrdering\XmlElementOrdering\obj\Debug\XmlElementOrdering.csproj.AssemblyReference.cache
+C:\projects\personal\XmlElementOrdering\XmlElementOrdering\obj\Debug\XmlElementOrdering.Form1.resources
+C:\projects\personal\XmlElementOrdering\XmlElementOrdering\obj\Debug\XmlElementOrdering.Properties.Resources.resources
+C:\projects\personal\XmlElementOrdering\XmlElementOrdering\obj\Debug\XmlElementOrdering.csproj.GenerateResource.cache
+C:\projects\personal\XmlElementOrdering\XmlElementOrdering\obj\Debug\XmlElementOrdering.csproj.CoreCompileInputs.cache
+C:\projects\personal\XmlElementOrdering\XmlElementOrdering\obj\Debug\XmlElementOrdering.exe
+C:\projects\personal\XmlElementOrdering\XmlElementOrdering\obj\Debug\XmlElementOrdering.pdb
